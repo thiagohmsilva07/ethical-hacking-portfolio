@@ -74,12 +74,15 @@ Security Testing	Hacking Ético	Segurança Ofensiva	Segurança Web
 
 <div align="center">
 
-🐧 Linux & Networking Lab	🔎 Vulnerability Assessment
-Linux, redes e fundamentos	Identificação e análise de vulnerabilidades
-🌐 Web Application Security Lab	🐍 Python Security Automation
-Segurança web e OWASP	Scripts e automação de segurança
-🤖 AI Cybersecurity Assistant	
-IA aplicada à análise de vulnerabilidades	
+| 🐧 Linux & Networking Lab | 🔎 Vulnerability Assessment |
+|||
+| Linux, redes e fundamentos | Identificação e análise de vulnerabilidades |
+| | |
+| 🌐 Web Application Security Lab | 🐍 Python Security Automation |
+| Segurança web e OWASP | Scripts e automação de segurança |
+| | |
+| 🤖 AI Cybersecurity Assistant | |
+| IA aplicada à análise de vulnerabilidades | |
 
 </div>
 
@@ -98,21 +101,23 @@ IA aplicada à análise de vulnerabilidades
 
 ⸻
 
-📊 MY JOURNEY
+🔄 PORTFOLIO UPDATES
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&title_color=00FF99&icon_color=00FF99"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/>
+<img src="https://img.shields.io/badge/Portfolio-Under_Development-00FF99?style=for-the-badge&logo=github&logoColor=black"/>
 </div>
+
+Este portfólio está em constante atualização, acompanhando minha evolução nos estudos de Cybersecurity, Ethical Hacking e Pentest.
+
+Novos projetos, laboratórios, documentações e conhecimentos serão adicionados progressivamente.
 
 ⸻
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,100:020617&height=120&section=footer"/>
 
 Learning • Building • Securing
 
 Cybersecurity | Ethical Hacking | Pentest
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,100:020617&height=120&section=footer"/>
 </div>
