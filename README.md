@@ -1,55 +1,118 @@
-👨‍💻 Ethical Hacking & Cybersecurity Portfolio
+👨‍💻 ETHICAL HACKING & CYBERSECURITY
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:0F766E&height=220&section=header&text=CYBERSECURITY&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Ethical%20Hacking%20%7C%20Pentest%20%7C%20Security&descAlignY=60&descSize=18"/>
+<img src="https://img.shields.io/badge/FOCUS-Ethical_Hacking-00FF99?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AREA-Cybersecurity-00BFFF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/STATUS-Learning-FFD700?style=for-the-badge"/>
+</div>
+
+⸻
+
+🧑‍💻 ABOUT ME
+
+<img align="right" width="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 Olá! Seja bem-vindo(a) ao meu portfólio de Cibersegurança.
 
 Sou estudante de Tecnologia com foco em Cybersecurity, Ethical Hacking e Pentest, desenvolvendo conhecimentos em segurança ofensiva, análise de vulnerabilidades, Linux, redes, programação e Inteligência Artificial aplicada à segurança.
 
-Atualmente, estou desenvolvendo minha formação por meio de estudos técnicos, bootcamp Santander e laboratórios práticos.
+Atualmente, estou desenvolvendo minha formação por meio de estudos técnicos, Bootcamp Santander e laboratórios práticos.
 
-🎯 Objetivo profissional
+<br clear="right"/>
 
-Desenvolver competências para atuar profissionalmente como:
+⸻
 
-Pentester Júnior
-Ethical Hacker
-Analista de Segurança Ofensiva
-Application Security Analyst
+🎯 PROFESSIONAL GOALS
 
-🛡️ Áreas de estudo
-Ethical Hacking e Penetration Testing
-Linux e administração de sistemas
-Redes de computadores e protocolos
-OWASP Top 10 e segurança web
-Análise de vulnerabilidades
-Python aplicado à cibersegurança
-Inteligência Artificial aplicada à segurança
+<div align="center">
 
-🧰 Tecnologias e ferramentas em aprendizado
-Linux
-Kali Linux
-Python
-Git e GitHub
-Burp Suite
-OWASP
-VirtualBox / VMware
-TryHackMe
-PortSwigger Web Security Academy
+🛡️	🕵️	⚔️	🔒
+Pentester Jr.	Ethical Hacker	Offensive Security	AppSec
+Security Testing	Hacking Ético	Segurança Ofensiva	Segurança Web
 
-📂 Projetos
-Linux & Networking Lab
-Cybersecurity Vulnerability Assessment
-Web Application Security Lab
-Python Security Automation
-AI Cybersecurity Assistant
+</div>
 
-📚 Formação e desenvolvimento
-Bootcamp Santander — formação em tecnologia, IA e cibersegurança.
-Estudos independentes de Ethical Hacking.
-Laboratórios práticos em ambientes autorizados.
-Desenvolvimento contínuo de projetos técnicos.
+⸻
 
-🚀 Objetivo deste repositório
+🧠 AREAS OF STUDY
 
-Documentar minha evolução profissional, compartilhar projetos educacionais, registrar aprendizados e demonstrar minhas habilidades técnicas em desenvolvimento.
+<div align="center">
+<img src="https://img.shields.io/badge/Ethical_Hacking-111827?style=flat-square&logo=hackthebox&logoColor=00FF99"/>
+<img src="https://img.shields.io/badge/Linux-111827?style=flat-square&logo=linux&logoColor=FCC624"/>
+<img src="https://img.shields.io/badge/Networking-111827?style=flat-square&logo=cisco&logoColor=00BFFF"/>
+<img src="https://img.shields.io/badge/Web_Security-111827?style=flat-square&logo=owasp&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/Artificial_Intelligence-111827?style=flat-square&logo=openai&logoColor=white"/>
+</div>
 
-Este portfólio está em construção e será atualizado continuamente.
+⸻
+
+⚙️ TECHNOLOGIES & TOOLS
+
+<div align="center">
+
+💻 Operating Systems
+
+<img src="https://skillicons.dev/icons?i=linux,kali"/>
+
+🐍 Programming & Development
+
+<img src="https://skillicons.dev/icons?i=python,git,github"/>
+
+🔐 Cybersecurity
+
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+<img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
+<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=88CC14"/>
+<img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white"/>
+</div>
+
+⸻
+
+📂 PROJECTS
+
+<div align="center">
+
+🐧 Linux & Networking Lab	🔎 Vulnerability Assessment
+Linux, redes e fundamentos	Identificação e análise de vulnerabilidades
+🌐 Web Application Security Lab	🐍 Python Security Automation
+Segurança web e OWASP	Scripts e automação de segurança
+🤖 AI Cybersecurity Assistant	
+IA aplicada à análise de vulnerabilidades	
+
+</div>
+
+⸻
+
+🎓 EDUCATION & DEVELOPMENT
+
+<div align="center">
+<img src="https://img.shields.io/badge/Santander-Bootcamp-EC0000?style=for-the-badge&logo=santander&logoColor=white"/>
+</div>
+
+* 📖 Estudos independentes de Ethical Hacking.
+* 🧪 Laboratórios práticos em ambientes autorizados.
+* 📈 Desenvolvimento contínuo de projetos técnicos.
+* 🚀 Aprendizado em tecnologia, IA e cibersegurança.
+
+⸻
+
+📊 MY JOURNEY
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&title_color=00FF99&icon_color=00FF99"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/>
+</div>
+
+⸻
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,100:020617&height=120&section=footer"/>
+
+Learning • Building • Securing
+
+Cybersecurity | Ethical Hacking | Pentest
+
+</div>
