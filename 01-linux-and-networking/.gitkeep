@@ -1,1 +1,77 @@
-In progress...
+# 🐧 Linux & Networking Lab
+
+## 1. Introduction to Linux
+
+O Linux é um sistema operacional de código aberto, amplamente utilizado em servidores, redes e ambientes de Cibersegurança. Ele permite administrar sistemas, executar comandos e gerenciar recursos do computador.
+
+## 2. Installing Linux
+
+A instalação do Linux permite configurar um ambiente para estudos e atividades práticas.
+
+Principais etapas:
+- Escolha da distribuição Linux.
+- Criação de máquina virtual.
+- Configuração do sistema.
+- Instalação e atualização de pacotes.
+
+## 3. Remote Access to Linux Machines
+
+O acesso remoto permite controlar e administrar máquinas Linux por meio de uma conexão de rede.
+
+- **SSH (Secure Shell):** protocolo utilizado para acessar sistemas remotamente com segurança.
+- Permite executar comandos e administrar servidores à distância.
+
+## 4. Managing Files in Linux
+
+O gerenciamento de arquivos é realizado principalmente pelo terminal, utilizando comandos para navegar, criar, copiar, mover e excluir arquivos e diretórios.
+
+Principais comandos:
+
+| Comando | Função |
+| `pwd` | Mostra o diretório atual |
+| `ls` | Lista arquivos e pastas |
+| `cd` | Navega entre diretórios |
+| `mkdir` | Cria diretórios |
+| `touch` | Cria arquivos |
+| `cp` | Copia arquivos |
+| `mv` | Move ou renomeia arquivos |
+| `rm` | Remove arquivos |
+
+## 5. User Management in Linux
+
+O gerenciamento de usuários permite controlar quem pode acessar o sistema e quais permissões cada pessoa possui.
+
+Principais comandos:
+
+| Comando | Função |
+|---|---|
+| `whoami` | Mostra o usuário atual |
+| `who` | Lista usuários conectados |
+| `useradd` | Cria usuários |
+| `passwd` | Define ou altera senhas |
+| `usermod` | Modifica contas de usuários |
+| `userdel` | Remove usuários |
+| `groups` | Mostra os grupos do usuário |
+
+## 6. Networking Fundamentals
+
+Redes de computadores permitem a comunicação entre dispositivos e sistemas.
+
+Conceitos fundamentais:
+- **IP:** identifica dispositivos em uma rede.
+- **DNS:** traduz nomes de domínio em endereços IP.
+- **DHCP:** distribui configurações de rede automaticamente.
+- **TCP/IP:** conjunto de protocolos que permite a comunicação entre dispositivos.
+- **HTTP/HTTPS:** protocolos utilizados na comunicação web.
+
+## 7. Final Considerations
+
+O conhecimento em Linux e redes é fundamental para trabalhar com administração de sistemas, segurança da informação e Ethical Hacking.
+
+Este projeto reúne meus estudos e práticas sobre sistemas Linux, gerenciamento de usuários, arquivos, acesso remoto e fundamentos de redes.
+
+---
+
+**Project:** Linux & Networking Lab  
+**Category:** Operating Systems & Networking  
+**Status:** In Progress
