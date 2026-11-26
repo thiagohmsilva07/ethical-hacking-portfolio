@@ -1,1 +1,56 @@
-.
+# 🔐 Cybersecurity Fundamentals
+
+## 1. Introduction to Cybersecurity
+
+A Cibersegurança é a área responsável por proteger sistemas, redes, dispositivos e informações contra ataques, invasões e acessos não autorizados.
+
+### Hacker vs. Cracker
+- **Hacker:** pessoa com conhecimentos técnicos em tecnologia, que pode atuar de forma ética ou maliciosa.
+- **Cracker:** utiliza seus conhecimentos para quebrar proteções, invadir sistemas e realizar atividades maliciosas.
+
+## 2. Types of Hackers
+
+- 🟢 **White Hat:** hacker ético que identifica vulnerabilidades com autorização.
+- 🔴 **Black Hat:** utiliza seus conhecimentos para realizar ataques e atividades ilegais.
+- 🟡 **Grey Hat:** identifica vulnerabilidades sem necessariamente possuir autorização, mas nem sempre possui intenções maliciosas.
+
+## 3. Cybersecurity Teams
+
+- 🔴 **Red Team:** simula ataques para testar a segurança de sistemas.
+- 🔵 **Blue Team:** protege sistemas, monitora ameaças e responde a incidentes.
+- 🟣 **Purple Team:** integra Red Team e Blue Team para melhorar a segurança.
+
+## 4. Main Cybersecurity Threats
+
+Principais ameaças encontradas no ambiente digital:
+
+- **Malware:** software malicioso que prejudica sistemas e dispositivos.
+- **Ransomware:** bloqueia ou criptografa dados e exige pagamento.
+- **Phishing:** utiliza mensagens e sites falsos para roubar informações.
+- **Social Engineering:** manipula pessoas para obter dados ou acessos.
+- **Brute Force:** testa diversas combinações para descobrir senhas.
+- **DDoS:** sobrecarrega servidores para interromper serviços.
+
+## 5. Cybersecurity Best Practices
+
+Boas práticas para proteger dados e sistemas:
+
+- 🔑 Utilizar senhas fortes e exclusivas.
+- 🔐 Ativar autenticação multifator (MFA).
+- 🔄 Manter sistemas e aplicativos atualizados.
+- 📩 Evitar links e arquivos suspeitos.
+- 💾 Realizar backups regularmente.
+- 🌐 Utilizar redes seguras e firewall.
+- 🔒 Limitar acessos e permissões.
+
+## 6. Final Considerations
+
+Compreender os fundamentos da Cibersegurança é essencial para identificar ameaças, proteger informações e desenvolver conhecimentos em Ethical Hacking e Pentest.
+
+Este conteúdo será complementado conforme minha evolução nos estudos.
+
+---
+
+**Project:** Cybersecurity Fundamentals  
+**Category:** Information Security  
+**Status:** In Progress
